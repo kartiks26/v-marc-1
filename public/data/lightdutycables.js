@@ -2,6 +2,7 @@ const lightdutycables = [
     {
         name: "3 CORE FLAT PVC / XLPE CABLES",
         category: "Light Duty Cables",
+        identifier: "3-CORE-FLAT-PVC-XLPE-CABLES",
         description: [{
             title: "Standards",
             content: ["IS-694, IS-8130, IS-5831 & Generaly-IS-7098 (Pt-I)"]
@@ -47,6 +48,7 @@ const lightdutycables = [
     {
         name: "SINGLE & MULTICORE ALUMINIUM CABLES",
         category: "Light Duty Cables",
+        identifier: "SINGLE-MULTICORE-ALUMINIUM-CABLES",
         description: [{
             title: "Standards",
             content: ["IS: 694, ICE: 60227, BS: 6500, IS: 5831:1984, IS: 8130:1984"]
@@ -77,6 +79,7 @@ const lightdutycables = [
     {
         name: "SINGLE & MULTICORE COPPER CABLES",
         category: "Light Duty Cables",
+        identifier: "SINGLE-MULTICORE-COPPER-CABLES",
         description: [{
             title: "Standards",
             content: ["IS: 694, ICE: 60227, BS: 6500, IS: 5831:1984, IS: 8130:1984"]
@@ -111,6 +114,7 @@ const lightdutycables = [
     {
         name: "HFFR / ZHFR / LSZH MULTISTRAND CABLES",
         category: "Light Duty Cables",
+        identifier: "HFFR-ZHFR-LSZH MULTISTRAND-CABLES",
         description: [{
             title: "Standards",
             content: ["IS 17048, IEC 60332-1 &amp; 3, IEC 60754-1 &amp; 2, IS 8130"]
@@ -132,6 +136,7 @@ const lightdutycables = [
     {
         name: "FRLSH MULTISTRAND CABLES",
         category: "Light Duty Cables",
+        identifier: "FRLSH-MULTISTRAND-CABLES",
         description: [{
             title: "Standards",
             content: ["IS 694: FRLSH Category, IS 8130 &amp; IS 5831"]
@@ -153,6 +158,7 @@ const lightdutycables = [
     {
         name: "FR MULTISTRAND CABLES",
         category: "Light Duty Cables",
+        identifier: "FR-MULTISTRAND-CABLES",
         description: [{
             title: "Standards",
             content: ["IS 694: FR Category, IS 8130 & IS 5831"]

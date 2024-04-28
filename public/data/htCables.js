@@ -3,6 +3,7 @@ const htCables =
         {
             name: "HT CABLES (UPTO 33 KV)",
             category: "HT Cables",
+            identifier: "HT-CABLES-UPTO-33-KV",
             description: [{
                 title: "Standards",
                 content: ["IS-7098 Part 2"]
@@ -76,6 +77,7 @@ const htCables =
         {
             name: "MEDIUM VOLTAGE COVERED CONDUCTORS",
             category: "HT Cables",
+            identifier: "MEDIUM-VOLTAGE-COVERED-CONDUCTORS",
             description: [
                 {
                     title: "Standards",
@@ -117,7 +119,6 @@ const htCables =
                 }
             ]
         },
-
     ]
 
 export default htCables;

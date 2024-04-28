@@ -3,6 +3,7 @@ const ltCables =
         {
             name: "LT PVC POWER & CONTROL CABLES",
             category: "LT Cables",
+            identifier: "LT-PVC-POWER-CONTROL-CABLES",
             description: [{
                 title: "Standards",
                 content: ["IS-1554 (Part -1) 1988"]
@@ -45,6 +46,7 @@ const ltCables =
         },
         {
             name: "LT XLPE POWER & CONTROL CABLES",
+            identifier: "LT-XLPE-POWER-CONTROL-CABLES",
             category: "LT Cables",
             description: [{
                 title: "Standards",
@@ -109,6 +111,7 @@ const ltCables =
         {
             name: "LT XLPE AERIAL BUNCHED CABLES",
             category: "LT Cables",
+            identifier: "LT-XLPE-AERIAL-BUNCHED-CABLES",
             description: [{
                 title: "Standards",
                 content: ["IS-14255"]
